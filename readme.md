@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Alejandro Garcia**, Git lover
+
+**Alejandro Garcia**, Git lover & Larry Plotter lovers
+
